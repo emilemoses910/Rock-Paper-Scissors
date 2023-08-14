@@ -39,9 +39,14 @@ function playRound(playerSelection, computerSelection) {
     console.log(playerSelection);
     console.log(computerSelection);
 
-   // let game () = {playRound(); playRound(); playRound(); playRound()}
-    //game()
+  /* let game (playRound()) {
+    for (let i = 0; i<5; i++);{
+        let playerSelection = prompt('Rock, Paper or Scissors');
+        const computerSelection = getComputerChoice();
+    }
+    return
+   } */
 
-    //commit and get commit messasge for the above code from CGPT. 
+   
     
 
